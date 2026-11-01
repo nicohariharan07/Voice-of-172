@@ -1,0 +1,11 @@
+{
+  "name": "Voice of 172",
+  "short_name": "Voice 172",
+  "description": "A visible path from a neighbourhood concern to a civic response.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F7",
+  "theme_color": "#D11F2A",
+  "lang": "en-IN",
+  "icons": [{"src":"/icon.svg","sizes":"192x192","type":"image/svg+xml","purpose":"any maskable"}]
+}
